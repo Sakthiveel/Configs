@@ -225,7 +225,7 @@ return {
   "nvim-neo-tree/neo-tree.nvim",
   opts = {
     window = {
-      position = "right", -- or "right", "top", "float"
+      position = "left", -- or "right", "top", "float"
       -- width = 30,
     },
     filesystem = {
